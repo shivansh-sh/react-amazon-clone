@@ -1,1 +1,1 @@
-This repository was created for testing the ServiceNow AI Agent with GitHub MCP integration.
+the updation of readme file is successful from the mcp client
